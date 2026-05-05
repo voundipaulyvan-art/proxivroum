@@ -40,7 +40,7 @@ L’objectif est de :
 
 ## Contenu du dépôt
 
-* `ProxiVroum.pdf` : réponse complète à l’exercice
+* `ProxiVroum.md` : réponse complète à l’exercice
 * `README.md` : présentation du projet
 
 ---
